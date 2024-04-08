@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "EffectiveMobile_testTask": {
+      "commandName": "Project",
+      "commandLineArgs": "--config-file config.json"
+    }
+  }
+}
